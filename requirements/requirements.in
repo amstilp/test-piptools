@@ -1,2 +1,2 @@
 # Base requirements
-django<2.2
+django<2.3
