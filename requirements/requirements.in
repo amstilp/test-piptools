@@ -1,2 +1,2 @@
 # Base requirements
-django<3.0
+django<4.0
