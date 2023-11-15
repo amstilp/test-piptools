@@ -4,5 +4,7 @@
 #
 #    pip-compile --output-file=requirements.txt pyproject.toml
 #
-urllib3==1.26.18
+django==2.1.15
     # via test-piptools (pyproject.toml)
+pytz==2023.3.post1
+    # via django

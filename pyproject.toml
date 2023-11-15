@@ -6,5 +6,5 @@ build-backend = "hatchling.build"
 name = "test-piptools"
 version = "2023.11.14"
 dependencies = [
-    "urllib3>=1.0"
+    "django<2.2"
 ]
